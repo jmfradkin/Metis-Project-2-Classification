@@ -4,7 +4,7 @@
 
 Use supervised learning and classification methods to predict a discrete response variable in a data set.
 
-I am using a ![data set](https://archive.ics.uci.edu/ml/datasets/Heart+Disease) detailing various elements of patients' medical records in order to predict whether or not they will be diagnosed with coronary artery disease. My goal is to find a model that accurately predicts heart disease diagnosis for both men and women so that I can compare the weight of features in both models.  
+I am using a [data set](https://archive.ics.uci.edu/ml/datasets/Heart+Disease) detailing various elements of patients' medical records in order to predict whether or not they will be diagnosed with coronary artery disease. My goal is to find a model that accurately predicts heart disease diagnosis for both men and women so that I can compare the weight of features in both models.  
 
 The features are:  
 1. ECG Reading during Exercise (slope)  
