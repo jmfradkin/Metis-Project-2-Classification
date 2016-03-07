@@ -19,7 +19,9 @@ The features are:
 10. Resting BP (trestbp--Sys. + Dias.)
 11. Peak BP (tpeakbp--Sys. + Dias.)  
 
-Response variable (num) = 1 for positive diagnosis, 0 for negative diagnosis.
+Response variable (num) = 1 for positive diagnosis, 0 for negative diagnosis. 
+ 
+"male5.csv" and "fem5.csv" are the cleaned data sets I used for the project.  
 
 This repo contains an iPython notebook showing the modeling analysis on this data.
 
