@@ -24,7 +24,7 @@ ___
 
 ###Files
  
--`male5.csv` and `fem5.csv` are the cleaned data sets I used for the project.
+-`male5.csv` and `fem5.csv` are the cleaned data sets I used for the project.  
 -`mcnulty_models-final.ipynb` shows the modeling analysis on this data.
 
 The **presentation** for this project can be found [here] (https://docs.google.com/presentation/d/1pvAz2v6ZQMDWX4bKPi-zoZJtcTENkDBmq24u9sly6ZY/edit#slide=id.p4) and the associated **blog post** can be found [here](https://jamiefradkin.wordpress.com/2016/02/20/metis-project-3-predicting-heart-disease-diagnosis-with-classification-methods/).
